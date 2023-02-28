@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+It's a test project to learn:
+ - NextJS 13 (server components, new App Dir)
+ - SWC instead of Babel
+ - Plop to generate files and standard components
+ - Jest
+
+
 ## Getting Started
 
 First, run the development server:
