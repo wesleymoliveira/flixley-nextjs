@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Test /> should render the component 1`] = `
+<div
+  class="emotion-0"
+  data-testid="test"
+>
+  <h1>
+    Test
+  </h1>
+</div>
+`;
